@@ -1,7 +1,8 @@
 
 from ast import Str
 
-
+#--Question:I want you to create a program that will get an input 
+#from the user that will be a number of kilometers.
 name_1 = str(input("Hello I am the caliki!! \n What is your name? " ))
 var_1 = [name_1]
 num2 = float(input("Please enter the number of Km that will converted to Miles :"))
