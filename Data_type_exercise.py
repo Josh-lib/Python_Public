@@ -16,6 +16,6 @@ print ("Your initials are",fname,mname,lname)
 # Batch number:___
 
 lot_num = "037-00901-00027"
-print ("Country Code:",lot_num[0:3])
+print ("Country Code: ",lot_num[0:3])
 print ("Product code: ",lot_num[4:9])
 print ("Batch number: ",lot_num[10:15])
