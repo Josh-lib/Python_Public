@@ -7,4 +7,4 @@ def fahr2celsius(fahr):
 
 print("Celsius:",round(fahr2celsius(100),2))
 print("Kelvin:",round(fahr2celsius(100) + 273.5,2))
-print(say_hello("Liza","Tina"))
+print(say_hello("Lane","Tina"))
